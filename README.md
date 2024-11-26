@@ -30,3 +30,11 @@ It:
 ```bash
 dotnet run
 ```
+
+## Potential improvements
+
+- Make Playwright a tool.
+- Add a code interpreter and let AI write / execute Playwright code based on user prompts (i.e. extract all links from this webpage and follow them), instead of being limited by the fixed prompt I provided.
+- Extract and follow links
+- Add web search so you can find what is being said about the product / company outside of its website
+- Persist / index data so it doesn't have to be fetched every time.
