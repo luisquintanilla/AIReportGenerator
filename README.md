@@ -24,3 +24,9 @@ It:
     # If the pwsh command does not work (throws TypeNotFound), make sure to use an up-to-date version of PowerShell.
     dotnet tool update --global PowerShell
     ```
+
+## Run app
+
+```bash
+dotnet run
+```
