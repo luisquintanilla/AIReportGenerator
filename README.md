@@ -38,3 +38,4 @@ dotnet run
 - Extract and follow links
 - Add web search so you can find what is being said about the product / company outside of its website
 - Persist / index data so it doesn't have to be fetched every time.
+- Apply agentic patterns
